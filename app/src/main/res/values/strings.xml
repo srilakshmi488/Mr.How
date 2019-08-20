@@ -1,0 +1,283 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mr.How</string>
+    <string name="facebook_app_id">2343371349073031</string>
+    <string name="fb_login_protocol_scheme">fb2343371349073031</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //about us Screen
+    <string name="aboutus">About Us</string>
+
+    //certificate screen
+    <string name="certificates">Certificates</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+
+    //studio details
+    <string name="details">Details</string>
+    <string name="comments">Comments</string>
+    <string name="seemore">See More</string>
+    <string name="addcomments">Add comments</string>
+    <string name="enteryourcomment">Enter Your Comment</string>
+    <string name="postcomment">Post Comment</string>
+    <string name="reply">Reply</string>
+
+    //faq screen
+    <string name="faqs">FAQs</string>
+
+    //filter screen
+    <string name="filters_txt">Filters</string>
+    <string name="reset">Reset</string>
+    <string name="category">Category</string>
+    <string name="sub_category">Subcategories</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="price_range">Price Range</string>
+    <string name="rating">Ratings</string>
+    <string name="five_rating">5 Rating</string>
+    <string name="four_and_up">4 &amp; UP</string>
+    <string name="three_and_up">3 &amp; UP</string>
+    <string name="two_and_up">2 &amp; UP  </string>
+    <string name="one_and_up">1 &amp; UP</string>
+    <string name="sort_by">Sort By</string>
+    <string name="popularity">Popularity</string>
+    <string name="price_low_to_high">Price from low to high</string>
+    <string name="price_high_to_low">Price from high to low</string>
+    <string name="apply_filter">Apply Filter</string>
+
+    //forgotpassword
+    <string name="forgotpassword">Forgot PassWord</string>
+    <string name="emailaddress">Email Address</string>
+    <string name="submit">Submit</string>
+
+
+    //signin screen
+    <string name="signin">Sign In</string>
+    <string name="password">Password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="orloginwith"> or Login with</string>
+    <string name="donthaveaccount">Don\'t have an account?</string>
+    <string name="signupnow"><u>Sign Up Now!</u></string>
+
+
+    //main screen
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="getStarted">Get Started</string>
+
+    //my downloads screen
+    <string name="mydownloads">My DownLoads</string>
+
+    //notifications screen
+    <string name="notifications">Notifications</string>
+    <string name="followingtrainerupdates">Following trainers updates</string>
+    <string name="personalizedrecommendations">Personalized recommendations</string>
+
+    //payment screen
+    <string name="payment">Payment</string>
+    <string name="total_payable_amount">Total Payable Amount</string>
+    <string name="onlinepayment">Online Payment</string>
+    <string name="cashondelivery">Cash On Delivery</string>
+    <string name="paynow">Pay Now</string>
+
+    //private information screen
+    <string name="privateinformation">Private Information</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="paymentinformation">Payment Information</string>
+
+    //purchase details screen
+    <string name="purchasedetails">Purchase Details</string>
+    <string name="purchasecourses">Purchase Courses</string>
+    <string name="add_promotional_code">Add Promotional Code</string>
+    <string name="enter_discount_code">Enter your discount code</string>
+    <string name="apply_code">Apply code</string>
+    <string name="purchasesummary">Purchase Summary</string>
+    <string name="sub_total">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="total">Total</string>
+    <string name="proceed_to_pay">Proceed to Pay</string>
+
+
+    //Bottom menu
+    <string name="studio">Studio</string>
+    <string name="discover">Discover</string>
+    <string name="my_courses">MyCourse</string>
+    <string name="profile">Profile</string>
+
+    //rating and review screen
+    <string name="ratingreview">Rating and Review</string>
+    <string name="giveyourrating">Give your rating</string>
+    <string name="writeareview">Write a Review</string>
+    <string name="by">by</string>
+    <string name="on">on</string>
+
+
+    //signup screen
+    <string name="signup">Sign up</string>
+    <string name="fullname">Full Name(as in your certificate)*</string>
+    <string name="signupemail">E-mail Address*</string>
+    <string name="signuppassword">Password*</string>
+    <string name="conformpassword">Confirm Password*</string>
+    <string name="iagreetothe">I agree to the</string>
+    <string name="termsandconditions"><u>Terms and Conditions</u></string>
+    <string name="orsignupwith">or Sign Up with</string>
+    <string name="alreadyhaveanaccount">Already have an account?</string>
+    <string name="sign_in"><u>Sign in Now!</u></string>
+
+
+    //trainer profile screen
+    <string name="trainer_profile">Trainer Profile</string>
+    <string name="students">Students</string>
+    <string name="courses">Courses</string>
+    <string name="trainerrating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="stars_txt">Stars</string>
+    <string name="viewmore">View More</string>
+    <string name="switchtostudent">Switch to Student view</string>
+    <string name="coursesby">Courses by</string>
+
+    //video options screen
+    <string name="videooptions">Video Options</string>
+    <string name="videodownload">Video Download quality</string>
+    <string name="auto">Auto</string>
+    <string name="downloadviawifi">Download via Wifi Only</string>
+    <string name="continuevideoinbackground">Continue Video in background</string>
+
+    //view details screen
+    <string name="viewdetails">View Details</string>
+    <string name="buynow">Buy Now</string>
+
+
+    //about fragment screen
+    <string name="courseoverview">Course overview</string>
+    <string name="whatyoulearn">What you\'ll learn</string>
+    <string name="description">Description</string>
+    <string name="requirments">Requirements</string>
+    <string name="relatedcourses">Related courses</string>
+    <string name="seeall">See All</string>
+
+    //discover screen
+    <string name="searchforcoursename">Search For Coursename</string>
+    <string name="categiries">Categories</string>
+    <string name="newcourse">New Course</string>
+    <string name="recommendedcourses">Recommended Courses</string>
+
+    //lesson fragment screen
+    <string name="introductionvideo">Introduction Video</string>
+    <string name="welcometothecourse">Welcome to the course!</string>
+    <string name="materialofthecourse">Material of the Course</string>
+    <string name="downloadclasses">Download classes</string>
+
+    //more screen
+    <string name="studentprojects">10 Students Projects</string>
+
+    //my courses screen
+    <string name="mycourses">My Courses</string>
+    <string name="wishlistcourses">Wishlist courses</string>
+    <string name="myenrolled">My Enrolled Courses</string>
+
+    //profile
+    <string name="enrolledcourses">Enrolled Courses</string>
+    <string name="followedtrainers">Followed trainers</string>
+    <string name="registerastrainer">Become MrHow Trainer</string>
+    <string name="sharetheapp">Share the App</string>
+    <string name="contactus">Contact us</string>
+    <string name="signout">Sign Out</string>
+
+    //enrolled screen
+    <string name="uploadprojects">Upload Projects</string>
+
+    //reply dialog
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+    //sucess dialog
+    <string name="thankyouforurorder">Thank you for your order!</string>
+    <string name="wearesending">We are sending a copy of all important order information to your email address.</string>
+    <string name="viewcourses">View Courses</string>
+
+    //internet and loading
+    <string name="connecttointernet">Connect To InterNet</string>
+    <string name="loading">Loading....</string>
+    <string name="pleaseentersearchfield">Please Enter Search Field</string>
+    <string name="followers">Followers</string>
+    <string name="unfollow">Un Follow</string>
+    <string name="follow">Follow</string>
+    <string name="yourenrolledcoursesempty">Your Enrolled Courses Empty</string>
+    <string name="yourfavoritesempty">Your Favorites is Empty</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="addphoto">Add Photo</string>
+    <string name="pleasewriteyourcomment">Please Write Your Comment</string>
+    <string name="pleasepurchaseyourcourse">Please Purchase Your Course</string>
+    <string name="coursecompleted">Course Completed</string>
+    <string name="completed">Completed</string>
+    <string name="filterresults">Filter Results</string>
+    <string name="searchresults">Search Results</string>
+    <string name="pleaseselectcatagiry">Please Select Category</string>
+    <string name="pleaseenteremail">Please Enter Email</string>
+    <string name="alert">Alert!</string>
+    <string name="areyousureexit">Are You Sure Exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pleaseenterfields">Please Enter Fields</string>
+    <string name="messagesunread">Messages Unread</string>
+    <string name="youhavebeenpurchased">You have been purchased</string>
+    <string name="pleaseenterallfields">Please Enter All Fields</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="pleaseentercommentrating">Please Enter Comment and Rating</string>
+    <string name="pleaseagreeterms">Please Agree Terms And Conditions</string>
+    <string name="passwordandconformpassword">Password and confirm password don\'t match</string>
+    <string name="lessons">Lessons</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
+    <string name="removewishlist">Remove WishList</string>
+    <string name="addtowishlist">Add To WishList</string>
+
+    <string name="playback_channel_name">play_back</string>
+
+    //promo code
+    <string name="pleaseenterpromocode">Please Enter PromoCode</string>
+
+    //<string name="terms">Terms and Conditions</string>
+    <string name="all">All</string>
+
+
+    //video quality screen
+    <string name="videoquality">Video Quality</string>
+    <string name="three">360p</string>
+    <string name="four">480p</string>
+    <string name="seven">720p</string>
+    <string name="best">1080p (Best)</string>
+
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+
+
+    <string-array name="languageArray">
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+    <string-array name="genderArray">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+    <string-array name="qualityArray">
+        <item>360p</item>
+        <item>480p</item>
+        <item>720p</item>
+        <item>1080p (Best)</item>
+        <item>Auto</item>
+    </string-array>
+
+
+</resources>

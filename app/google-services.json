@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226084995173",
+    "firebase_url": "https://mrhow-244307.firebaseio.com",
+    "project_id": "mrhow-244307",
+    "storage_bucket": "mrhow-244307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226084995173:android:d569d306eb313a0b",
+        "android_client_info": {
+          "package_name": "com.volive.mrhow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226084995173-83jd1ib97e2i11p6n34rbtr0b9fk7n80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W7KWxefpKwLPPDuLJZhR_MISgLCQepU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226084995173-83jd1ib97e2i11p6n34rbtr0b9fk7n80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

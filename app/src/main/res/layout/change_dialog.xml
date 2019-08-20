@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:gravity="bottom"
+    android:background="@color/whitecolour"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_changelanguage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Change Language"
+        android:textColor="@color/blackcolour"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/button_english"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/hashbackground"
+        android:backgroundTint="@color/green"
+        android:text="@string/english"
+        android:textColor="@color/whitecolour" />
+
+    <Button
+        android:id="@+id/button_arabic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/hashbackground"
+        android:backgroundTint="@color/lightyellow"
+        android:text="@string/arabic"
+        android:textColor="@color/whitecolour" />
+
+
+</LinearLayout>

@@ -1,0 +1,282 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mr.How</string>
+    <string name="facebook_app_id">2343371349073031</string>
+    <string name="fb_login_protocol_scheme">fb2343371349073031</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //about us Screen
+    <string name="aboutus">من نحن</string>
+
+    //certificate screen
+    <string name="certificates">الشهادات</string>
+    <string name="download">التحميل</string>
+    <string name="share">شاركها</string>
+
+    //studio details
+    <string name="details">التفاصيل</string>
+    <string name="comments">التعليقات</string>
+    <string name="seemore">المزيد</string>
+    <string name="addcomments">إضافة تعليق</string>
+    <string name="enteryourcomment">اضف تعليقك</string>
+    <string name="postcomment">ارسال التعليق</string>
+    <string name="reply">رد</string>
+
+    //faq screen
+    <string name="faqs">الأسئلة المتكررة</string>
+
+    //filter screen
+    <string name="filters_txt">تصفية</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="category">الفئات</string>
+    <string name="sub_category">الفئات الفرعية</string>
+    <string name="min">الأقل</string>
+    <string name="max">الأكثر</string>
+    <string name="price_range">نطاق الأسعار</string>
+    <string name="rating">التقييمات</string>
+    <string name="five_rating">التقييم 5</string>
+    <string name="four_and_up">4 فما فوق</string>
+    <string name="three_and_up">3 فما فوق</string>
+    <string name="two_and_up">2 فما فوق</string>
+    <string name="one_and_up">1 فما فوق</string>
+    <string name="sort_by">تصنيف حسب</string>
+    <string name="popularity">الرائج</string>
+    <string name="price_low_to_high">السعر من الأقل  للأكثر</string>
+    <string name="price_high_to_low">السعر من الأكثر للأقل</string>
+    <string name="apply_filter">تطبيق التصنيف</string>
+
+    //forgotpassword
+    <string name="forgotpassword">نسيت كلمة المرور</string>
+    <string name="emailaddress">عنوان البريد الإكتروني </string>
+    <string name="submit">إرسال</string>
+
+
+    //signin screen
+    <string name="signin">تسجيل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="rememberme">تذكرني</string>
+    <string name="forgot"> نسيت كلمة المرور؟</string>
+    <string name="orloginwith">أو تسجيل الدخول باستخدام</string>
+    <string name="donthaveaccount">ليس لديك حساب؟</string>
+    <string name="signupnow"><u>سجل معنا الآن!</u></string>
+
+
+    //main screen
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="getStarted">ابدأ</string>
+
+    //my downloads screen
+    <string name="mydownloads">التنزيلات الخاصة بي</string>
+
+    //notifications screen
+    <string name="notifications">الإشعارات</string>
+    <string name="followingtrainerupdates">متابعة أحداث المدربين</string>
+    <string name="personalizedrecommendations">توصيات شخصية</string>
+
+    //payment screen
+    <string name="payment">الدفع</string>
+    <string name="total_payable_amount">إجمالي المبلغ المستحق</string>
+    <string name="onlinepayment">الدفع عن طريق الانترنت</string>
+    <string name="cashondelivery">الدفع عن الاستلام</string>
+    <string name="paynow">ادفع الآن</string>
+
+    //private information screen
+    <string name="privateinformation">المعلومات الخاصة بي</string>
+    <string name="edit">تعديل</string>
+    <string name="save">حفظ</string>
+    <string name="email">البريد الإكتروني </string>
+    <string name="phone">الجوال</string>
+    <string name="gender">الجنس</string>
+    <string name="paymentinformation">معلومات الدفع</string>
+
+    //purchase details screen
+    <string name="purchasedetails">تفاصيل الشراء</string>
+    <string name="purchasecourses">شراء الدورات التدريبية</string>
+    <string name="add_promotional_code">إضافة كود الخصم</string>
+    <string name="enter_discount_code">ادخل كود الخصم الخاص بك</string>
+    <string name="apply_code">استخدام الكود</string>
+    <string name="purchasesummary">ملخص الشراء</string>
+    <string name="sub_total">المبلغ الأجمالي</string>
+    <string name="discount">الخصم</string>
+    <string name="total">المجموع</string>
+    <string name="proceed_to_pay">الانتقال الى الدفع</string>
+
+
+    //Bottom menu
+    <string name="studio">استديو </string>
+    <string name="discover">اكتشف</string>
+    <string name="my_courses">دوراتي </string>
+    <string name="profile">حسابي</string>
+
+    //rating and review screen
+    <string name="ratingreview">التقييمات و الآراء</string>
+    <string name="giveyourrating">تقييمك للدورة التدريبية</string>
+    <string name="writeareview">اكتب رأيك</string>
+    <string name="by">بواسطة</string>
+    <string name="on">على</string>
+
+
+    //signup screen
+    <string name="signup">تسجيل </string>
+    <string name="fullname">الاسم كاملاً (كما سيظهر في شهادتك)*</string>
+    <string name="signupemail">عنوان البريد الإكتروني* </string>
+    <string name="signuppassword">كلمة المرور*</string>
+    <string name="conformpassword">تأكيد كلمة المرور*</string>
+    <string name="iagreetothe">أوافق على</string>
+    <string name="termsandconditions"><u>الشروط والأحكام</u></string>
+    <string name="orsignupwith">أو التسجيل باستخدام</string>
+    <string name="alreadyhaveanaccount">لديك حساب؟</string>
+    <string name="sign_in"><u>تسجيل الدخول الآن!</u></string>
+
+
+    //trainer profile screen
+    <string name="trainer_profile">الملف الشخصي للمدرب </string>
+    <string name="students">الطلاب </string>
+    <string name="courses">الدورات </string>
+    <string name="trainerrating">التقييم </string>
+    <string name="reviews">الآراء </string>
+    <string name="stars_txt">نجوم</string>
+    <string name="viewmore">عرض المزيد </string>
+    <string name="switchtostudent">تسجيل مدرب مسترهاو</string>
+    <string name="coursesby">الدورات حسب</string>
+
+    //video options screen
+    <string name="videooptions">خيارات مقاطع الفيديو </string>
+    <string name="videodownload">جودة تحميل مقطع الفيديو </string>
+    <string name="auto">تلقائي </string>
+    <string name="downloadviawifi">التحميل عن طريق واي فاي فقط</string>
+    <string name="continuevideoinbackground">متابعة الفيديو في الخلفية</string>
+
+    //view details screen
+    <string name="viewdetails">عرض التفاصيل </string>
+    <string name="buynow">الشراء الآن </string>
+
+
+    //about fragment screen
+    <string name="courseoverview">نظرة عامة على الدورة</string>
+    <string name="whatyoulearn">ماذا سوف تتعلم </string>
+    <string name="description">الوصف </string>
+    <string name="requirments">المتطلبات </string>
+    <string name="relatedcourses">الدورات ذات الصلة</string>
+    <string name="seeall">عرض الكل </string>
+
+    //discover screen
+    <string name="searchforcoursename">بحث عن اسم الدورة</string>
+    <string name="categiries">الفئات </string>
+    <string name="newcourse">دروة جديدة </string>
+    <string name="recommendedcourses">المقترحات</string>
+
+    //lesson fragment screen
+    <string name="introductionvideo">مقدمة</string>
+    <string name="welcometothecourse">مرحبا بكم في  دروس المعرفة !</string>
+    <string name="materialofthecourse">مواد الدورة</string>
+    <string name="downloadclasses">تحميل الفصول </string>
+
+    //more screen
+    <string name="studentprojects"> 10مشاريع </string>
+
+    //my courses screen
+    <string name="mycourses">دوراتي </string>
+    <string name="wishlistcourses">قائمة أمنياتي</string>
+    <string name="myenrolled">دوراتي المسجلة</string>
+
+    //profile
+    <string name="enrolledcourses">دوراتي المسجلة</string>
+    <string name="followedtrainers">المدربون المتابَعون</string>
+    <string name="registerastrainer">التسجيل كمدرب مسترهاو</string>
+    <string name="sharetheapp">شارك التطبيق </string>
+    <string name="contactus">اتصل بنا</string>
+    <string name="signout">تسجيل الخروج</string>
+
+    //enrolled screen
+    <string name="uploadprojects">شارك مشروعك</string>
+
+    //reply dialog
+    <string name="send">إرسال</string>
+    <string name="cancel">إلغاء</string>
+
+    //sucess dialog
+    <string name="thankyouforurorder">شكراً لك..  تم إنهاء الطلب!</string>
+    <string name="wearesending">تم إرسال نسخة من جميع معلومات الطلب المهمة إلى عنوان بريدك الإلكتروني.</string>
+    <string name="viewcourses">عرض الدورات التدريبية</string>
+
+    //internet and loading
+    <string name="connecttointernet">الاتصال بالإنترنت</string>
+    <string name="loading">تحميل...</string>
+    <string name="pleaseentersearchfield">الرجاء إدخال حقل البحث</string>
+    <string name="followers">المتابِعون</string>
+    <string name="unfollow">إلغاء المتابعة</string>
+    <string name="follow">تابِع</string>
+    <string name="yourenrolledcoursesempty">لايوجد دورات مسجلة!  ابدأ رحلتك واكتشف!</string>
+    <string name="yourfavoritesempty">لا يوجد مفضلة</string>
+    <string name="camera">الكاميرا</string>
+    <string name="gallery">ألبوم الصور</string>
+    <string name="addphoto">إضافة صورة</string>
+    <string name="pleasewriteyourcomment">الرجاء إضافة تعليقك</string>
+    <string name="pleasepurchaseyourcourse">الرجاء شراء الدورة التدريبية </string>
+    <string name="coursecompleted">تم اكمال الدورة التدريبية</string>
+    <string name="completed">منجز</string>
+    <string name="filterresults">تصفية النتائج</string>
+    <string name="searchresults">البحث عن النتائج</string>
+    <string name="pleaseselectcatagiry">الرجاء اختيار الفئة</string>
+    <string name="pleaseenteremail">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="alert">تنبيه!</string>
+    <string name="areyousureexit">هل أنت متأكد من الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="pleaseenterfields">الرجاء تعبئة جميع الحقول</string>
+    <string name="messagesunread">الرسائل الغير مقروءة</string>
+    <string name="youhavebeenpurchased">تم الشراء</string>
+    <string name="pleaseenterallfields">الرجاء تعبئة جميع الحقول</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="pleaseentercommentrating">الرجاء إدخال التعليق والتقييم</string>
+    <string name="pleaseagreeterms">الرجاء الموافقة والإطلاع على الشروط والأحكام</string>
+    <string name="passwordandconformpassword">كلمة المرور وتأكيد كلمة المرور غير متطابقة</string>
+    <string name="lessons">الدروس</string>
+    <string name="about">عن </string>
+    <string name="more">المزيد</string>
+    <string name="removewishlist">إزالة قائمة الأمنيات</string>
+    <string name="addtowishlist">إضافة إلى قائمة الأمنيات</string>
+
+    <string name="playback_channel_name">play_back</string>
+
+    //promo code
+    <string name="pleaseenterpromocode">الرجاء إدخال الرمز الترويجي</string>
+
+    <string name="terms">الشروط والأحكام</string>
+    <string name="all">الكل</string>
+
+    //video quality screen
+    <string name="videoquality">جودة مقطع الفيديو</string>
+    <string name="three">جودة 360</string>
+    <string name="four">جودة 480</string>
+    <string name="seven">جودة 720</string>
+    <string name="best">جودة 1080</string>
+
+
+
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+
+
+    <string-array name="languageArray">
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+    <string-array name="genderArray">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </string-array>
+
+    <string-array name="qualityArray">
+        <item>جودة 360</item>
+        <item>جودة 480</item>
+        <item>جودة 720</item>
+        <item>جودة 1080</item>
+        <item>تلقائي </item>
+    </string-array>
+
+</resources>
